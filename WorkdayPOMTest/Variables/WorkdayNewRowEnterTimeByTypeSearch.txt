@@ -1,0 +1,1 @@
+//table[@class='mainTable']/tbody/tr[1]/td[2]/./descendant::div/input

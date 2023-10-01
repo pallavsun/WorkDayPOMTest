@@ -1,0 +1,1 @@
+//table[@class='mainTable']/tbody//tr[@tabindex="0"][1]/td[7]/div/div/input
